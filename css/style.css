@@ -1,0 +1,126 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+h3 {
+    margin:  50px;
+    color: blanchedalmond;
+}
+
+#title {
+    font-size: 30px;
+    margin-top: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+menu {
+    padding: 8px;
+    padding-bottom: 17px;
+    background-color: rgb(161, 161, 161);
+    list-style: none;
+    text-align: center;
+}
+
+.texto1 {
+    margin: 6px;
+    padding-top: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    padding: 20px;
+    background-image: url(./image/fundo-abstrato-colorido_23-2148807053.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+
+header {
+    background-color: rgb(118, 118, 145);
+    padding: 20px;
+    margin: 20px;
+    float: right;
+    max-width: 200px;
+}
+
+.inscrisão{
+    display: inline-block;
+    padding: 5px;
+    margin: 8px;
+    border: none;
+    box-sizing: border-box;
+}
+
+#enviar {
+    display: inline-block;
+    padding: 5px;
+    margin: 8px;
+    border: none;
+    box-sizing: border-box;
+    background-color: blue;
+}
+
+.final {
+    display: inline-block;
+    background-color:  grey;
+    width: 100%;
+
+}
+
+.final p, .final h2{
+    display: inline-block;
+    color: black;
+    max-width: 40%;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.final p{
+    margin-top: 20px;
+}
+
+#imagem {
+    margin: 15px;
+    background-repeat: no-repeat;
+    float: left;
+    padding: 60px;
+} 
+
+#texto {
+    text-align: center;
+}
+
+@media (max-width: 650px){
+    #img{
+        display: block;
+        text-align: center;
+    }
+   #imagem {
+    background-repeat: no-repeat;
+    float: left;
+    display:block;
+    margin: auto;
+    text-align: center;
+    float: none;
+   }
+  }
+
+  .final p, .final h2{
+    display:block;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
