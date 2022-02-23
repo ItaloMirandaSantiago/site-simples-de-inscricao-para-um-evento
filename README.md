@@ -1,3 +1,9 @@
-<h1>Link do projeto <a href="https://italomirandasantiago.github.io/site-simples-de-inscricao-para-um-evento/">click</a.</h1>
+<h1>Link do projeto <a href="https://italomirandasantiago.github.io/site-simples-de-inscricao-para-um-evento/css/">click</a.</h1>
 
-<h2>feito apenas para treinar CSS</h2>
+<h2>Tecnologias</h2>
+<ul>
+
+  <li>HTML</li>
+  <li>CSS</li>
+  
+</ul>
