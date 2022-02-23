@@ -1,5 +1,7 @@
+#site_landing_page
+Feito para simular um evento de jogos 
 <h1>Link do projeto <a href="https://italomirandasantiago.github.io/site-simples-de-inscricao-para-um-evento/css/">click</a.</h1>
-
+  
 <h2>Tecnologias</h2>
 <ul>
 
